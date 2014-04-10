@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.mx.itic.eric"
+    version   = "1.0.0">
+
+<name>Soporte Técnico</name>
+
+<description>
+Smart Card de Erick Cortés Roque.
+</description>
+<preference name="fullscreen" value="false" />
+<icon src="img/icono.png" />
+<gap:splash src="img/smartcard_banner_vert.jpg" />
+<author href="https://www.itic.com.mx" email="ecortes@itic.com.mx">
+Erick Cortés
+</author>
+
+</widget>

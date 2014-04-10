@@ -1,0 +1,53 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td{
+	background: transparent;
+	border: 0;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+}
+a{text-decoration:none}
+.oc{display:none}
+
+
+.FL{
+	float: left;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 0px;
+	font-size: 13px
+}
+.FR {
+	float: right;
+	font-size: 13px;
+	padding-bottom: 12px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 12px;
+}
+	.FR ul {float:right; text-decoration:none; padding-top:14px}
+	.FR li {float:left; display:inline; padding-left:10px; text-align:center}
+
+
+#total {background-image:url(../img/world.png); background-repeat:no-repeat }
+
+	#contenido {text-align:center}
+
+	#cabecera {
+	width: auto;
+	height: 130px
+}
+	
+	#contact {
+	width: auto;
+	height: 75px
+}
+	
+.none {
+	height: 15px
+}
